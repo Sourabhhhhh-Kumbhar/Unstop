@@ -1,0 +1,1177 @@
+2026.08.08 19:06:06 INFO  Started: Metals version 1.6.8 in folders 'D:\Yo' for client Visual Studio Code 1.131.0.
+2026.08.08 19:06:06 INFO  Memory monitor started
+2026.08.08 19:06:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.08.08 19:06:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:09 WARN  no build tool detected in workspace 'D:\Yo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.08.08 19:06:10 WARN  Build server is not auto-connectable.
+2026.08.08 19:06:10 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:06:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:06:13 INFO  restarted 1 presentation compiler
+2026.08.08 19:06:39 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:40 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:06:40 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:06:59 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:00 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:00 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:00 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:06:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:00 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:01 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:02 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:02 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:02 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:02 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:02 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:02 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:04 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:04 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:04 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:04 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:04 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:05 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:05 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:05 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:05 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:07 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:06 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:08 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:08 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:08 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:07 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:08 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:08 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:08 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:09 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:10 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:12 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:12 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:12 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:12 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:14 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:14 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:15 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:15 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:14 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:18 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:32 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:36 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+Aug 08, 2026 7:07:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:37 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:38 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:38 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:38 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:39 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:39 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:41 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:41 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:41 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:41 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:41 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:50 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:07:50 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:51 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:51 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:54 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:54 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:54 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:55 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:55 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:55 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:57 WARN  Running javac-semanticdb failed for file:///D:/Yo/Sum.java. Output:
+
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:56 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:57 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:07:57 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:00 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:08:00 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+Aug 08, 2026 7:08:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.08.08 19:08:00 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:16 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:16 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:16 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:17 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:17 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:18 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:19 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:21 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:08:21 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:32 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:33 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:34 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:34 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:35 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:34 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:34 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:35 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:35 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:35 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:36 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:39 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:08:39 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+Aug 08, 2026 7:08:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.08.08 19:08:40 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:47 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:48 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:48 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:49 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:51 WARN  no build target for: D:\Yo\Sum.java
+2026.08.08 19:08:51 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:55 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:55 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:58 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:58 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:08:59 INFO  no build target found for D:\Yo\Sum.java. Using fallback presentation compiler.
+2026.08.08 19:18:09 WARN  no build target for: D:\Yo\SumRange.java
+2026.08.08 19:18:09 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:15 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:16 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:18 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:20 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:20 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:20 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:20 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:21 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:22 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:26 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:28 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:28 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:29 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:42 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+Aug 08, 2026 7:18:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465
+2026.08.08 19:18:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:42 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:44 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:18:44 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:18:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:06 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:06 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:08 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:11 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:11 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:11 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:11 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:11 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:13 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:16 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:17 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:19 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:28 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:28 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:28 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:28 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:29 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:42 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:44 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:46 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:46 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:48 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:54 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:54 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:55 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:55 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:56 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:19:56 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:19:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+Aug 08, 2026 7:20:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 756
+2026.08.08 19:20:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:03 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:04 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:05 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:14 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:17 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:20 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:20 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:21 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:22 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:31 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:36 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:37 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:38 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:39 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:40 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:40 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:40 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:40 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:40 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:41 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:42 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:43 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:47 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:49 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:50 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:51 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:51 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:54 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:54 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:55 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:57 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:57 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:58 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:58 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:20:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:01 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:05 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:24 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:29 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:31 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:32 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:34 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:35 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:36 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:39 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:39 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:39 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:41 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:41 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:45 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:47 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:48 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:50 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:51 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:50 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:51 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:51 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:51 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:53 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:53 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:53 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:53 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:58 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:57 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:58 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:58 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:21:59 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:00 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:03 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:03 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:05 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:04 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:06 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:06 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:05 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:07 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:07 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:08 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:09 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:10 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:10 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:12 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:12 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:13 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:14 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:15 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:17 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:17 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:16 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:18 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:20 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:20 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:19 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:21 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+Aug 08, 2026 7:22:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1517
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:23 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:22 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:24 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:24 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:25 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:25 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:26 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:25 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:25 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:26 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:26 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:28 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:28 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:27 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:29 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:29 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:30 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:30 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:33 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:34 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:34 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:34 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:34 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:34 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:34 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:35 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:36 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:35 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:37 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:38 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:46 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:48 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:49 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:49 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:52 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:52 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:55 WARN  Running javac-semanticdb failed for file:///D:/Yo/SumRange.java. Output:
+
+2026.08.08 19:22:55 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:22:56 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:23:01 WARN  no build target for: D:\Yo\SumRange.java
+2026.08.08 19:23:01 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:23:08 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+Aug 08, 2026 7:23:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.08.08 19:23:18 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:23:23 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+Aug 08, 2026 7:23:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.08.08 19:23:36 INFO  no build target found for D:\Yo\SumRange.java. Using fallback presentation compiler.
+2026.08.08 19:23:47 INFO  Shutting down server
+2026.08.08 19:23:47 INFO  Memory monitor stopped
+2026.08.08 19:23:47 INFO  shutting down Metals
+2026.08.08 19:23:47 INFO  Exiting server
