@@ -25,4 +25,16 @@ public class LCM
     }
 }
 
-
+//LCM stands for Least Common Multiple.
+//
+//It is the smallest positive number that is a multiple of two or more numbers.
+//
+//        Example: LCM of 4 and 6
+//
+//Multiples of 4:
+//        4, 8, 12, 16, 20, 24...
+//
+//Multiples of 6:
+//        6, 12, 18, 24...
+//
+//The first number appearing in both lists is 12.
